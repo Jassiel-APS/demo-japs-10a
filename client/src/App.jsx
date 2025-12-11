@@ -22,9 +22,8 @@ function App() {
           count is {count}
         </button>
         <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
+         Hola desde Client
         </p>
-        <p>Puto el que lo lea</p>
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
